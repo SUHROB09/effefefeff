@@ -1,0 +1,17 @@
+.btn{
+    width: 150px;
+    height: 40px;
+}
+
+.div{
+    display: none;
+    margin-top: 150px;
+    margin-left: 700px;
+    background-color: black;
+    width: 400px;
+    height: 300px;
+}
+.active{
+    display: rgb(255, 255, 255);
+
+}
